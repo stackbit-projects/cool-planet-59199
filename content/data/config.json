@@ -28,7 +28,8 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "secondary",
+                "new_window": true
             }
         ]
     },
