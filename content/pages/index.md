@@ -19,7 +19,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: white
       background_image: images/1152513.jpg
       background_image_opacity: 200
       background_image_size: auto
