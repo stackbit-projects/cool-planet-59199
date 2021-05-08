@@ -52,6 +52,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+        image: images/splendid-broccoli.png
       - title: Network Enterprise Packers & Movers.
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
