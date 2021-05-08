@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Our Divisions!
     features:
       - title: Network Enterprise & Crane Services.
         content: >-
