@@ -53,7 +53,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Network Enterprise Packers & Movers
+      - title: Network Enterprise Packers & Movers.
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
